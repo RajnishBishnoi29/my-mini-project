@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+    text-align: center;
+    
+}
+/* form{
+    display: inline-block;
+    text-align: center;
+     justify-content: center;
+} */
+ nav a{
+  display: inline-block;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  border: solid 1px rgb(22, 22, 22);
+  text-align: center;
+  text-decoration: none;
+  color: #1b1b1b;
+  background-color: #fff;
+}
+button{
+    height: 30px;
+    width: 120px;
+    margin: 30px;
+    color: rgb(41, 52, 79);
+    font-style: italic;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+    border:solid black 2px;
+    background-color: darkgray;
+    color: black;}
+    
+
+.info{
+    padding: 10%;
+    
+}
+
